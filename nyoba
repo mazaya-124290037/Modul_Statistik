@@ -1,0 +1,17 @@
+# Create and switch to a new branch
+git checkout -b my-new-feature
+
+# Make your file changes, then stage and commit them
+git add .
+git commit -m "Add descriptive commit message"
+
+# Push your branch to the remote GitHub repository
+git push origin my-new-feature
+
+
+import numpy as np
+
+def func(x):
+  return x+-2
+
+#hiihihihi
